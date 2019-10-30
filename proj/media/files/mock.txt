@@ -1,0 +1,4 @@
+mock object 가짜
+test spy 가짜 진짜 섞임
+
+테스트 최소 10개 이상
